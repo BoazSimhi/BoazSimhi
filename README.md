@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BoazSimhi
-- 👀 I’m interested in figuring out how Github works and * * what I * * might be able to do with it.
+- 👀 I’m interested in figuring out how Github works and * what I * might be able to do with it.
 - 🌱 I’m currently learning Software!
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
